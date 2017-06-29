@@ -1,5 +1,5 @@
-\\mnist\\train\\image-0-1001.pgm
-mnist\\train\\image-0-1009.pgm
-mnist\\train\\image-0-101.pgm
-mnist\\train\\image-0-1034.pgm
-mnist\\train\\image-0-1047.pgm
+mnist/train/image-0-1001.pgm
+mnist/train/image-0-1009.pgm
+mnist/train/image-0-101.pgm
+mnist/train/image-0-1034.pgm
+mnist/train/image-0-1047.pgm

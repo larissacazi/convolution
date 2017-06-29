@@ -376,8 +376,6 @@ int main() {
 
 
 	//Free everything
-	freeFileSet(trainData);
-	freeFileSet(testData);
 	freeMaskSet(maskSet, m);
 
 	return 0;
