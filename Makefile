@@ -1,2 +1,2 @@
 all:
-	gcc -o conv -g conv.c -lm 
+	gcc -o convolucao -g convolucao.c -lm 

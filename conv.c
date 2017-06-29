@@ -15,7 +15,7 @@ typedef struct PGM {
 	int column;		//Width
 	int row;		//Height
 	int max;		//Maximum gray value
-	int **pgm;		//Gray values
+	unsigned char **pgm;		//Gray values
 	double *featureVector; 	//Feature vector
 	int sizeVector;		//Size of the vector
 	double class;  		//Image class
